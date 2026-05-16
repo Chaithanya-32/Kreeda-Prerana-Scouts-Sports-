@@ -306,7 +306,7 @@ git clone https://github.com/Akshitha-K1/KreedaPrerana.git
 
 # Author
 
-Akshitha K
+Chaithanya S
 
 ---
 
