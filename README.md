@@ -138,7 +138,7 @@ Kreeda-Prerana aims to bridge this gap by providing a digital sports scouting an
 
 ## Analytics & Ranking
 - Sorting algorithms generate leaderboards
-- Performance comparison between athletes
+- Performance comparison between athlets
 
 ---
 
